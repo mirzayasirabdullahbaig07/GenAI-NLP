@@ -1,6 +1,6 @@
 # 🧠 End-to-End NLP Course Notes & Implementation
 
-This repository contains structured notes, implementations, and projects based on a complete **Natural Language Processing (NLP)** course.  
+This repository contains structured notes, implementations, and projects based on a complete **Natural Language Processing (NLP)** course  
 It covers concepts from basics to deployment of real-world NLP applications.
 
 ---
