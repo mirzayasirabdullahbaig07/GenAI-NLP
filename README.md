@@ -4,7 +4,6 @@ This repository contains structured notes, implementations, and projects based o
 It covers concepts from basics to deployment of real-world NLP applications.
 
 ---
-
 ## 📚 Course Content
 
 ### 1️⃣ Introduction to NLP  
