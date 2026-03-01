@@ -7,7 +7,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ## 📚 Course Content
 
 ### 1️⃣ Introduction to NLP  
-**Duration:** 47:49  
+
 
 - What is NLP?
 - Applications of NLP
@@ -17,7 +17,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 2️⃣ End-to-End NLP Pipeline  
-**Duration:** 1:18:52  
+
 
 - Problem Definition
 - Data Collection
@@ -30,7 +30,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 3️⃣ Text Preprocessing  
-**Duration:** 1:07:48  
+
 
 - Tokenization
 - Stopwords Removal
@@ -42,7 +42,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 4️⃣ Text Representation  
-**Duration:** 1:44:38  
+
 
 - Bag of Words (BoW)
 - TF-IDF
@@ -53,7 +53,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 5️⃣ Word2Vec Complete Tutorial  
-**Duration:** 1:16:01  
+  
 
 - Word Embeddings
 - CBOW (Continuous Bag of Words)
@@ -64,7 +64,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 6️⃣ Text Classification  
-**Duration:** 52:11  
+
 
 - End-to-End Text Classification
 - Feature Engineering
@@ -75,7 +75,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 7️⃣ POS Tagging  
-**Duration:** 1:01:41  
+
 
 - Part of Speech Tagging
 - Hidden Markov Models (HMM)
@@ -85,7 +85,7 @@ It covers concepts from basics to deployment of real-world NLP applications.
 ---
 
 ### 8️⃣ NLP Project – Duplicate Question Pairs  
-**Duration:** 1:25:04  
+
 
 - Quora Question Pairs Dataset
 - Feature Engineering
